@@ -1,1 +1,2 @@
 
+unet model is trained for full patch images and cropped image patches. preprocessed with channel-1 conversion, resize and crop
